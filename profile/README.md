@@ -4,5 +4,5 @@
 
 At November Five, we set non-negotiables and hold them. We invest in the people who carry the standard, not just the ones who meet it. And we share what we think and build.
 
-We write about engineering at November Five → [engineering.novemberfive.co](https://engineering.novemberfive.co)
+We write about engineering at November Five → [engineering.novemberfive.co](https://engineering.novemberfive.co)<br>
 We are always looking for people to join → [novemberfive.co/careers](https://novemberfive.co/careers)
